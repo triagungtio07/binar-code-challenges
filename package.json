@@ -1,7 +1,6 @@
 {
   "name": "code-challenge",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -12,5 +11,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triagungtio07/binar-code-challenges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/triagungtio07/binar-code-challenges/issues"
+  },
+  "homepage": "https://github.com/triagungtio07/binar-code-challenges#readme",
+  "description": ""
 }
